@@ -1,2 +1,3 @@
-# NSYSU
-應用程式課堂作業
+# 00 Introduction
+- [EX01-01](EX01_01.ipynb)
+  
