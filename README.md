@@ -1,5 +1,4 @@
 # PC03
-## 00 Introduction
 ## 01 Python Overview
 - [EX01-01](EX01-01%20加法器.ipynb)
 - [EX01-02](EX01-02%20BMI計算.ipynb)
