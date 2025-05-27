@@ -23,7 +23,13 @@
 - [EX03-05](EX03-05%20台灣股票市場個股每日成交資訊.ipynb)
 - [EX03-06](EX03-06%20出生人口數.ipynb)
 - [EX03-07](EX03-07%20Tips.ipynb)
+## 04 Machine Learning
+- [EX04-01](EX04-01%20汽車車型數值資料轉換.ipynb)
+- [EX04-02](EX04-02%20客戶基本資料編碼.ipynb)
+- [EX04-03](EX04-03%20客戶分群.ipynb)
 ## 05 Web API
 - [EX05-01](EX05-01%20Echo_Bot.ipynb)
 - [EX05-02](EX05-02%20Ask_Gemini.ipynb)
 - [EX05-03](EX05-03%20Reply_Multi_type_Messages.ipynb)
+- [EX05-04](EX05-04%20Reply_Template_Messages.ipynb)
+## 06 Web System
