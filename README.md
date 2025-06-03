@@ -27,6 +27,9 @@
 - [EX04-01](EX04-01%20汽車車型數值資料轉換.ipynb)
 - [EX04-02](EX04-02%20客戶基本資料編碼.ipynb)
 - [EX04-03](EX04-03%20客戶分群.ipynb)
+- [EX04-04](EX04-04%20加州房價.ipynb)
+- [EX04-05](EX04-05%20辨識鳶尾花.ipynb)
+- [EX04-06](EX04-06%20ET_Today_新聞標題分類.ipynb)
 ## 05 Web API
 - [EX05-01](EX05-01%20Echo_Bot.ipynb)
 - [EX05-02](EX05-02%20Ask_Gemini.ipynb)
